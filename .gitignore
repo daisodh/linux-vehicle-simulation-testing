@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# C++ executable
+car_sim
+
+# Generated trajectory
+trajectory.csv
+trajectory_backup.csv
+
+# Backup files
+*.bak
+project_review.tar.gz
+
+# Crash dumps
+core
+core.*
